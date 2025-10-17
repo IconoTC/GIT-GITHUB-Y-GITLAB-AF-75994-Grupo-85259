@@ -3,7 +3,7 @@
 - GIT-GITHUB-Y-GITLAB-AF-75994-Grupo-85259
 - Duración: 25 horas
 - Modalidad: On-line
-- Fechas: 20, 21 , 22, 23 y 24 de Octubre 2025
+- Fechas: 20, 21, 22, 23 y 24 de Octubre 2025
 - Horario 9:30 – 14:30 hs
 
 Formador: Alejandro Cerezo
