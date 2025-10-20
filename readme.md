@@ -64,7 +64,7 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
 
 ## Desarrollo del curso
 
-<!-- ### Día 1 (Lunes 20 Octubre 2025)
+### Día 1 (Lunes 20 Octubre 2025)
 
 - Presentación profesor / alumnos
 - Introducción: Qué es un SCV y qué un SCV distribuido
@@ -72,18 +72,21 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
 - Instalación de Git
 - Terminales
   Configuración inicial
+  - Nombre de usuario y correo electrónico
 - Primeros pasos con Git
-  - Primer repo (init), primer commit
+
+  - Primer repo (init), primer commit: .gitignore / readme.md
   - Anatomía de un repositorio git: working directory, staging area (index o cache) y repositorio (.git)
   - Estados de un archivo: untracked (U), tracked (modified (M), staged (A), committed)
   - add/commit/reset y status/log/show
   - Mensajes de commit
+
+- [Descanso]
+
 - Anatomía de comandos típicos, referencias VS paths
 
   - HEAD, master, HEAD~1 y otras referencias útiles
   - Referencias por mensaje de commit (:/cadena)
-
-- [Descanso]
 
 - Integración con otras herramientas y entornos
   - Clientes gráficos
@@ -102,7 +105,7 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
 - Ficheros Markdown
   - Qué son
   - Sintaxis básica
-  - Vista previa en VSC / GitHub / GitLab -->
+  - Vista previa en VSC / GitHub / GitLab
 
 <!-- ### Día 2 (Martes 21 Octubre 2025)
 

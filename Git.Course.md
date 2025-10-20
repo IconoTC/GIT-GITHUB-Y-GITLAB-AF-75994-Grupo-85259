@@ -539,6 +539,10 @@ Es un comando con gran número de opciones que permiten personalizar la salida d
 git show
 ```
 
+Se pueden utilizar herramientas gráficas para visualizar el historial y el contenido de los commits. 
+
+Por ejemplo, **gitk**, que se instala con Git, o en **VSC** se puede utilizar la extensión **Git Graph**
+
 ### APRENDIENDO A REFERENCIAR REVISIONES Y PATHS
 
 #### Anatomía de comandos típicos, referencias vs paths
@@ -935,11 +939,19 @@ Se pueden añadir hipervínculos, tanto internos, hacia títulos, como externos
 [Google](https://www.google.com)
 ```
 
+Se vería:
+
+[Google](https://www.google.com)
+
 Igualmente se pueden incluir imagenes a partir de una URL o desde un fichero local
 
 ```markdown
 ![Ejemplo](https://via.placeholder.com/150)
 ```
+
+Se vería
+
+![Ejemplo](https://via.placeholder.com/150)
 
 En **VSC** esta incluida de serie la previsualización de ficheros markdown, que puede abrirse con el comando `Ctrl+K V` o desde el menú contextual del fichero. Además existen diversas extensiones que permiten comprobar la sintaxis y corregir errores o disponer de funcionalidades adicionales, como **Markdown All in One**, o **Markdown lint** o **Markdown Shortcuts**
 
