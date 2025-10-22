@@ -78,7 +78,7 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
   - Primer repo (init), primer commit: .gitignore / readme.md
   - Anatomía de un repositorio git: working directory, staging area (index o cache) y repositorio (.git)
   - Estados de un archivo: untracked (U), tracked (modified (M), staged (A), committed)
-  - add/commit/reset y status/log/show
+  - add/commit/reset y status/log/show - GitGraph
   - Mensajes de commit
 
 - [Descanso]
@@ -100,16 +100,17 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
   - git diff
 - Aliases
   - Qué son
-  - Cómo crearlos desde el CLI: `git config --global alias.co checkout`
+  - Cómo crearlos desde el CLI: `git config --global alias.ch checkout`
   - Crearlos editando el fichero de configuración: `git config --global -e`
 - Ficheros Markdown
   - Qué son
   - Sintaxis básica
   - Vista previa en VSC / GitHub / GitLab
 
-<!-- ### Día 2 (Martes 21 Octubre 2025)
+### Día 2 (Martes 21 Octubre 2025)
 
 - Git internals
+
   - Estructura de un repositorio git: .git
   - Objetos git: blobs, trees, commits (y tags)
     - Creación y lectura de objetos
@@ -117,6 +118,9 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
     - Modificación del árbol de objetos en commits sucesivos
   - Referencias: heads, ramas (tags y remotes)
   - Taller: creación de un repositorio git "a mano"
+
+- [Descanso]
+
 - Herramientas para preparar un buen commit en cualquier situación
 
   - Operaciones en la Staging Area (Index)
@@ -128,21 +132,19 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
   - git blame
   - Recapitulando: Git básico
 
-- [Descanso]
+  - Reescribiendo la historia
+    - Advertencia
+    - git command --amend
+      - Ref logs
+    - git checkout
+    - git reset
 
-- Reescribiendo la historia
-  - Advertencia
-  - git command --amend
-    - Ref logs
-  - git checkout
-  - git reset
-  - Evolución de git checkout: Nuevos comandos git switch y git restore
-  - git checkout a nivel de archivo (restore)
-  - git reset a nivel de archivo -->
-
-<!-- ### Día 3 (Miércoles 22 Octubre 2025)
+### Día 3 (Miércoles 22 Octubre 2025)
 
 - Reescribiendo la historia (2)
+  - Evolución de git checkout: Nuevos comandos git switch y git restore
+  - git checkout a nivel de archivo (restore)
+  - git reset a nivel de archivo
   - rebase interactivo
     - edit: modificando un commit
     - squash y fixup: fusionando commits
@@ -161,27 +163,29 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
     - Ver ramas
     - Borrar ramas
     - Mover y renombrar ramas
-  - Combinación de ramas: Merge y Rebase
-    - git merge
-      - fast-forward
-      - three-way merge
-    - git rebase
+  - git stash
 
 - [Descanso]
 
 - Trabajando en paralelo (2)
-
-  - git stash
+- - Combinación de ramas: Merge y Rebase
+    - git merge
+      - fast-forward
+      - three-way merge
+    - git rebase
   - Resolución de conflictos
+
   - git cherry-pick
+  - Patches
+    - Creación
+    - Aplicación
 
 - Etiquetas (tags)
+
   - Tags anotadas y tags ligeros
   - Crear, listar, eliminar
+
 - Worktrees
-- Patches
-  - Creación
-  - Aplicación -->
 
 <!-- ### Día 4 (Jueves 23 Octubre 2025)
 
