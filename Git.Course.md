@@ -112,7 +112,6 @@
     - [TRABAJANDO EN PARALELO: REPOSITORIOS REMOTOS](#trabajando-en-paralelo-repositorios-remotos)
       - [¿Qué son los repositorios remotos?](#qué-son-los-repositorios-remotos)
       - [Clonado de repositorios](#clonado-de-repositorios)
-      - [Git remote](#git-remote)
         - [Operaciones con git remote](#operaciones-con-git-remote)
       - [Operaciones con repositorios remotos](#operaciones-con-repositorios-remotos)
         - [Git push](#git-push)
@@ -142,7 +141,6 @@
     - [GitHub (Continuación)](#github-continuación)
       - [GITHUB PAGES. Practicas](#github-pages-practicas)
         - [Crear un sitio web con Astro y publicarlo en GitHub Pages](#crear-un-sitio-web-con-astro-y-publicarlo-en-github-pages)
-      - [GitHub CLI (continuación)](#github-cli-continuación)
       - [Releases (Liberaciones)](#releases-liberaciones)
         - [Tipos de releases](#tipos-de-releases)
         - [Relación entre tags y releases](#relación-entre-tags-y-releases)
@@ -2604,7 +2602,7 @@ Para trabajar con ellas, se puede crear una rama local que apunte a la rama remo
 git checkout -b nombre_rama origin/nombre_rama.
 ```
 
-#### Git remote
+git#### Git remote
 
 Git utiliza remote y ramas remotas (tracking branch) como referencias que facilitan la conexión con otros repositorios (conocidos como remotos)
 
@@ -3234,10 +3232,6 @@ Para crear un sitio con Astro y publicarlo en GitHub Pages, puedes seguir estos 
 7. **Publicar el sitio web**: GitHub generará automáticamente tu sitio web y te proporcionará una URL para acceder a él (por ejemplo, `https://tu-usuario.github.io/tu-repositorio`).
 
 Para más información sobre el despliegue de Astro en GitHub Pages, puedes consultar la [documentación oficial de Astro](https://docs.astro.build/en/guides/deploy/github/).
-
-#### GitHub CLI (continuación)
-
-Incluir contenido omitido el día anterior
 
 #### Releases (Liberaciones)
 

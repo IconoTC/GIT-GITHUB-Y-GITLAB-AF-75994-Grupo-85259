@@ -187,7 +187,7 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
 
 - Worktrees
 
-<!-- ### Día 4 (Jueves 23 Octubre 2025)
+### Día 4 (Jueves 23 Octubre 2025)
 
 - Repositorios remotos
 
@@ -210,13 +210,15 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
   - Pull requests (GitHub) / Merge requests (GitLab)
     - Flujo de trabajo típico
     - Revisión de código
+
+- [Descanso]
+
+  - Pull requests (GitHub) / Merge requests (GitLab)
     - Resolución de conflictos en remoto
     - Buenas prácticas:
       - Actualizar la rama con la rama main antes de hacer el merge
       - Resolución de conflictos en local
       - Eliminar la rama una vez hecho el merge
-
-- [Descanso]
 
 - Flujos de trabajo (workflows)
 
@@ -239,7 +241,7 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
       - issues y proyectos; milestones
     - Wikis
     - Gists
-  - GitHub CLI -->
+  - GitHub CLI
 
 <!-- ### Día 5 (Jueves 24 Octubre 2025)
 
