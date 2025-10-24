@@ -242,12 +242,13 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
     - Wikis
     - Gists
   - GitHub CLI
+  - GitHub Pages
+    - Configuración y uso
 
-<!-- ### Día 5 (Jueves 24 Octubre 2025)
+### Día 5 (Jueves 24 Octubre 2025)
 
 - GitHub (continuación)
   - GitHub Pages
-    - Configuración y uso
     - Práctica: publicar una web estática generada con Astro
   - Releases
 - Integración continua / Entrega continua (CI/CD)
@@ -256,12 +257,12 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
     - Introducción
     - Workflow. Partes y sintaxis
     - Configuración y ejecución de un workflow
+    - Ejemplo de CI (build y test) de una aplicación JS
 
 - [Descanso]
 
 - Integración continua / Entrega continua (CI/CD)
   - GitHub Actions (continuación)
-    - Ejemplo de CI (build y test) de una aplicación JS
     - CD: despliegues
       - Secretos
       - Despliegue en GitHub Pages
@@ -272,4 +273,6 @@ Desarrollo del curso en la carpeta Oficial -> [repo](https://github.com/IconoTC/
       - Configuración de un pipeline: stages y jobs
       - Artefactos
       - Variables
-      - Despliegues: environments -->
+      - Despliegues: environments
+  - GitHub Actions (continuación)
+    - CD: despliegues de Astro en GitHub Pages
